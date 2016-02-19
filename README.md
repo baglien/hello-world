@@ -1,2 +1,2 @@
 # hello-world
-The standard virgin attempt at using GitHub
+The standard attempt at using GitHub
